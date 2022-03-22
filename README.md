@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mariogarboo
-- 👀 I’m interested in ... cyber-security specialist
+- 👀 I’m interested in ... Cyber-Security Specialist
 - 🌱 I’m currently learning ... Web programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
